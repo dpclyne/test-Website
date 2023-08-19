@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Modern Condo with a View",
+        "location": "Los Angeles, CA",
+        "price": "$950,000",
+        "thumbnail": "condo1.jpg",
+        "description": "A sleek and modern condo with stunning views of the city skyline."
+    },
+    {
+        "id": 2,
+        "title": "Luxury Beachfront Villa",
+        "location": "Miami Beach, FL",
+        "price": "$3,500,000",
+        "thumbnail": "villa1.jpg",
+        "description": "An exquisite beachfront villa with private access to the sandy shores."
+    },
+    {
+        "id": 3,
+        "title": "Cozy Suburban Home",
+        "location": "Seattle, WA",
+        "price": "$650,000",
+        "thumbnail": "home1.jpg",
+        "description": "A charming suburban home nestled in a quiet neighborhood."
+    },
+    {
+        "id": 4,
+        "title": "Rustic Mountain Retreat",
+        "location": "Aspen, CO",
+        "price": "$2,200,000",
+        "thumbnail": "cabin1.jpg",
+        "description": "A cozy mountain cabin surrounded by pristine wilderness."
+    },
+    {
+        "id": 5,
+        "title": "Downtown Loft Living",
+        "location": "New York, NY",
+        "price": "$1,800,000",
+        "thumbnail": "loft1.jpg",
+        "description": "A chic and spacious downtown loft with easy access to city life."
+    },
+    {
+        "id": 6,
+        "title": "Historic Colonial Estate",
+        "location": "Charleston, SC",
+        "price": "$2,750,000",
+        "thumbnail": "estate1.jpg",
+        "description": "A beautifully restored historic estate with manicured gardens."
+    },
+    {
+        "id": 7,
+        "title": "Secluded Lakefront Cottage",
+        "location": "Lake Tahoe, CA",
+        "price": "$1,500,000",
+        "thumbnail": "cottage1.jpg",
+        "description": "A charming lakefront cottage hidden away in the woods."
+    },
+    {
+        "id": 8,
+        "title": "Golf Course Mansion",
+        "location": "Scottsdale, AZ",
+        "price": "$4,000,000",
+        "thumbnail": "mansion1.jpg",
+        "description": "A luxurious mansion overlooking a prestigious golf course."
+    },
+    {
+        "id": 9,
+        "title": "Contemporary City Apartment",
+        "location": "San Francisco, CA",
+        "price": "$1,250,000",
+        "thumbnail": "apartment1.jpg",
+        "description": "A contemporary apartment in the heart of the city with panoramic views."
+    },
+    {
+        "id": 10,
+        "title": "Quaint Countryside Cottage",
+        "location": "Cotswolds, UK",
+        "price": "$950,000",
+        "thumbnail": "cottage2.jpg",
+        "description": "A charming countryside cottage in the picturesque Cotswolds."
+    }
+]
